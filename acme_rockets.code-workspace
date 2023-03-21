@@ -5,7 +5,13 @@
     }
   ],
   "settings": {
-    "cSpell.words": ["Astro", "Illudium", "tailwindcss", "tallscreen"],
+    "cSpell.words": [
+      "Astro",
+      "Illudium",
+      "papayawhip",
+      "tailwindcss",
+      "tallscreen"
+    ],
     "css.format.enable": false
   }
 }
